@@ -1,9 +1,7 @@
-import Membership from "@/components/Membership/Membership";
-
 export default function Home() {
   return (
     <main>
-      <Membership />
+      <h1>Hello world!</h1>
     </main>
   );
 }
