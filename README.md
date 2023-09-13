@@ -1,3 +1,7 @@
+## Hackathon one
+Project made for the first hackathon.
+Made together with [Fabian](https://github.com/fabiantax87).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
