@@ -9,6 +9,11 @@ const Navigation = () => {
       </div>
       <ul className="ml-5 mt-14 flex flex-col gap-2">
         <li>
+          <Link href="/" className="hover:underline">
+            Home
+          </Link>
+        </li>
+        <li>
           <Link href="/personal-training" className="hover:underline">
             Personal training
           </Link>
