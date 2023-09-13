@@ -3,7 +3,7 @@ let users = require('../data/userData.json');
 
 export const usersRepo = {
     getAllL: () => users,
-    getById: ()=> users.find(x => x.id.toString() === id.toString()),
+    getById: id => users.find(x => x.id.toString() === id.toString()),
     //find
     create,
     update,
